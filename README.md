@@ -43,11 +43,14 @@
   ![Snake animation](https://github.com/devjuliomesquita/devjuliomesquita/blob/output/github-contribution-grid-snake.svg)
   
   
-  <div align="center"> 
-  <a href="https://instagram.com/carol_developer" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white"style="border-radius: 30px" target="_blank"></a>
-  <a href = "mailto:juliocesarmcamilo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dev-julio-c-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  <div style="display: inline_block" style="justify-content: center"><br>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-LinkedIn" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-linkedin.svg"></a>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Gmail" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-gmail-logo.svg"></a>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Blog" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-blogger.svg"></a>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Whatsapp" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-whatsapp.svg"></a>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank style="border-radius: 50%;" ><img height="48px" width="48px" style="border-radius: 50%;" align="center" alt="Julio-Portifólio" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/FOTO_IMG_PORTFOLIO.jpeg"></a>
+    
+</div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/>
 </div>
