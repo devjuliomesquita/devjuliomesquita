@@ -5,20 +5,18 @@
 
 
 
-### Olá, eu sou devjuliomesquita 👋
-
 - 🔭 Estudante de programação e quero seguir a carreira FullStack em Angular e .NET CORE. 
 - 🌱 Atualmente estou apredendo algumas funcionalidades e padrões como arquitetura limpa, Entity Framework Core, Command Query Responsibility Segregation, dentre outros...
 - 🤔 Procuro ajuda para melhorar e aperfeiçoar ainda mais meus conhecimentos
 
-<div align="centro">
+<div style="margin: auto">
   <a href="https://github.com/devjuliomesquita">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devjuliomesquita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliomesquita&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=devjuliomesquita&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliomesquita&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" style="justify-content: center"><br>
   
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,6 +32,7 @@
   <img align="center" alt="Julio-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
     
 </div>
+  
   ##
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devjuliomesquita&bg_color=22272d&color=44ff00&line=00660c&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -44,3 +43,19 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/>
 </div>
+  
+  <style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+# Markdown heading styles {#identifier .heading1}
+## Markdown heading styles {#identifier .heading2}
