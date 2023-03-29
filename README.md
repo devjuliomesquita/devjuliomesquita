@@ -48,7 +48,7 @@
   <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Gmail" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-gmail-logo.svg"></a>
   <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Blog" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-blogger.svg"></a>
   <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Whatsapp" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-whatsapp.svg"></a>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank style="border-radius: 50%;" ><img height="48px" width="48px" style="border-radius: 50%;" align="center" alt="Julio-Portifólio" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/FOTO_IMG_PORTFOLIO.jpeg"></a>
+  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank style="border-radius: 50%;" ><img height="48px" width="48px" style="border-radius: 50%;" align="center" alt="Julio-Portifólio" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/Julio-porti.jpeg"></a>
     
 </div>
  
