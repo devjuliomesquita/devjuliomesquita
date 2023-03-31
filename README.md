@@ -44,11 +44,11 @@
   
   
   <div style="display: inline_block"><br>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-LinkedIn" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-linkedin.svg"></a>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Gmail" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-gmail-logo.svg"></a>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Blog" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-blogger.svg"></a>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank"> <img align="center" alt="Julio-Whatsapp" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-whatsapp.svg"></a>
-  <a href = "mailto:cmp.1a.caroline@gmail.com" target="_blank" style="border-radius: 50%" ><img height="48px" width="48px" style="border-radius: 50%" align="center" alt="Julio-Portifólio" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/Julio-porti.jpeg"></a>
+  <a href = "https://www.linkedin.com/in/dev-julio-c-martins/" target="_blank"> <img align="center" alt="Julio-LinkedIn" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-linkedin.svg"></a>
+  <a href = "mailto:juliocesarmcamilo@gmail.com" target="_blank"> <img align="center" alt="Julio-Gmail" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-gmail-logo.svg"></a>
+  <a href = "" target="_blank"> <img align="center" alt="Julio-Blog" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-blogger.svg"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5585996816053&text=Ol%C3%A1%2C%20encontrei%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20seu%20trabalho." target="_blank"> <img align="center" alt="Julio-Whatsapp" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/icons8-whatsapp.svg"></a>
+  <a href = "https://portifolio-pessoal-tan.vercel.app/" target="_blank" style="border-radius: 50%" ><img height="48px" width="48px" style="border-radius: 50%" align="center" alt="Julio-Portifólio" src="https://github.com/devjuliomesquita/devjuliomesquita/blob/main/.github/workflows/Julio-porti.jpeg"></a>
     
 </div>
  
