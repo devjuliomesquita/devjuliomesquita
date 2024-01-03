@@ -40,7 +40,7 @@
   
   ##
   
-  ![snake animation](https://github.com/devjuliomesquita/devjuliomesquita/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://raw.githubusercontent.com/devjuliomesquita/devjuliomesquita/blob/output/github-contribution-grid-snake2.svg)
   
   
   <div style="display: inline_block"><br>
